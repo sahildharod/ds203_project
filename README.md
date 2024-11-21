@@ -1,4 +1,4 @@
-# House Price Analysis and Prediction
+## House Price Analysis and Prediction
 
 This is our course project for DS203 : Programming for Data Science. The main aim of this project was to give us a hands-on experience of implementing data analysis techniques using python frameworks. This analysis helped us identify the main variables that are correlated with/directly influence the prices of houses and can be used to predict the prices given using a ML model
 
